@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate full stack developer from Sri lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=connection-establish&label=Profile%20views&color=0e75b6&style=flat" alt="sam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=connection-establish&label=Profile%20views&color=0e75b6&style=flat" alt="connection-establish" /> </p>
 
 
 - 🔭 I’m currently working on [dev](dexgst)
