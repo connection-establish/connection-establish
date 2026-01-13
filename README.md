@@ -2,21 +2,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=connection-establish&label=Profile%20views&color=0e75b6&style=flat" alt="connection-establish" /> </p>
 
-- 🔭 I’m currently working on [df](Coming soon)
+- 🔭 I’m currently working on Github
 
-- 🌱 I’m currently learning **LLM**
+- 🌱 I’m currently learning **LLM** 
 
-- 👯 I’m looking to collaborate on [fafa](Coming soon)
+- 👯 I’m looking to collaborate on ...
 
-- 🤝 I’m looking for help with [faefaca](Coming soon)
+- 🤝 I’m looking for help with LLM
 
 - 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **Python**
 
-- 📫 How to reach me **mango@gmail.com**
+- 📫 How to reach me **bn627862@gmail.com**
 
-- ⚡ Fun fact **get exp**
+- ⚡ Fun fact **Trying to do new things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
